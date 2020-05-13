@@ -17,4 +17,5 @@ To run different problem statements:
    	3. output folder path
  
  To build jar of the project use Maven. Added all the necessary dependencies in the pom.xml.
-   	  
+ 
+ In the states file, the data was not correct. So I downloaded the data from wikipedia and used it to code.
